@@ -11,7 +11,12 @@ def fetch_wfp_data(level) -> pd.DataFrame:
 
     wfp = WFPFoodSecurity()
 
-    return wfp.get_data(level=level)
+    return (wfp
+            .get_data(level=level)
+            # format date to YYYY-MM-DD string format
+            .assign(date=lambda d: pd.to_datetime(d["date"]).dt.strftime("%Y-%m-%d"))
+            )
+
 
 
 def save(df: pd.DataFrame, level: str) -> None:
