@@ -12,9 +12,9 @@ population. Data is available at the country and regional level at a yearly freq
 ### Data files:
 
 - `SI.POV.NAHC.csv` - poverty headcount ratio at national poverty lines
-- `SI.POV.DDAY.csv` - poverty headcount ratio at $2.15 a day (2017 PPP)
-- `SI.POV.LMIC.csv` - poverty headcount ratio at $3.65 a day (2017 PPP)
-- `SI.POV.UMIC.csv` - poverty headcount ratio at $6.85 a day (2017 PPP)
+- `SI.POV.DDAY.csv` - poverty headcount ratio at $3.00 a day (2021 PPP)
+- `SI.POV.LMIC.csv` - poverty headcount ratio at $4.20 a day (2021 PPP)
+- `SI.POV.UMIC.csv` - poverty headcount ratio at $8.30 a day (2021 PPP)
 - `SP.POP.TOTL.csv` - total population
 
 
