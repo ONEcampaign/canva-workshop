@@ -1,18 +1,20 @@
 # Canva workshop data
 
-
-Here you can find data from the Canva data visalisation workshop supported by 
+Here you can find data for the Canva data visualization workshop supported by 
 the [ONE Campaign](https://data.one.org/) on selected global development topics, sourced from reputable organizations
 and data providers.
 
-## Datasets
+Find preformatted data to follow along the visualisation examples [here](./data/preformatted_data)
 
-|   | Dataset                                  | Description                          | Source                                                                                                         |                             
-|---|------------------------------------------|--------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| 1 | [HIV/AIDS](./data/hiv)                   | HIV/AIDS epidemiological indicators  | [UNAIDS](https://aidsinfo.unaids.org/)                                                                         |
-| 2 | [Global Health Expenditure](./data/ghed) | Global health expenditure indicators | [WHO](https://apps.who.int/nha/database)                                                                       |
-| 3 | [Food Security](./data/wfp)              | Hunger and Food security indicators  | [WFP HungerMap Live](https://hungermap.wfp.org/)                                                               |
-| 4 | [Poverty](./data/pov)                    | Poverty indicators                   | [World Bank](https://datatopics.worldbank.org/world-development-indicators/themes/poverty-and-inequality.html) |
+Explore other topics and access the unformatted data below:
+
+
+|   | Dataset                                           | Description                           |                             
+|---|---------------------------------------------------|---------------------------------------|
+| 1 | [HIV/AIDS](./data/hiv)                            | HIV/AIDS epidemiological indicators   | 
+| 2 | [Global Health Expenditure](./data/ghed)          | Global health expenditure indicators  | 
+| 3 | [Food Security](./data/wfp)                       | Hunger and Food security indicators   | 
+| 4 | [Poverty](./data/pov)                             | Poverty indicators                    |
 
 
 ### Replication code
